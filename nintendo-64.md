@@ -8,12 +8,10 @@ year: 1996
 license_url: "https://en.wikipedia.org/wiki/Nintendo_64#/media/File:N64-Console-Set.jpg" 
 license_text: Evan-Amos
 categories:
-  - Nintendo 64 
-  - Κονσόλες
-  - Μοντέλα
-  - Αρχέτυπα 
+  - Μέθοδος
 tags:
   - Nintendo 64
   - 1990s toys
   - Home video game consoles
+  - Nintendo
 ---
