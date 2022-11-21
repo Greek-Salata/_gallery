@@ -13,4 +13,5 @@ tags:
   - Nintendo 64
   - 1990s toys
   - Home video game consoles
+  - Nintendo
 ---
